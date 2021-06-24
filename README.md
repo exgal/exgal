@@ -15,7 +15,7 @@
 
 > The **Extragalactic Society** (often referred to as simply **ExGal**) was an organization devoted to the search for life outside [the galaxy](https://starwars.fandom.com/wiki/The_galaxy/Legends).[[1\]](https://starwars.fandom.com/wiki/Extragalactic_Society#cite_note-VP-1) During the time of the [Galactic Republic](https://starwars.fandom.com/wiki/Galactic_Republic/Legends), it was a member of the [General Ministry Institutes](https://starwars.fandom.com/wiki/General_Ministry_Institutes).[[2\]](https://starwars.fandom.com/wiki/Extragalactic_Society#cite_note-HNN-2)
 
---- from Wookeepedia
+--- from Wookieepedia
 
 ### About The Project🌏
 
@@ -30,6 +30,8 @@ This repo is the backend api of the website
 [![](https://img.shields.io/badge/-Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=ffffff)](https://php.net/)
 [![](https://img.shields.io/badge/-Docker-0167fe?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Apache-f00?style=flat-square&logo=apache&logoColor=ffffff)](https://www.apache.org/) 
+[![](https://img.shields.io/badge/-PostgreSQL-346891?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-Redis-a51f17?style=flat-square&logo=redis&logoColor=ffffff)](https://www.redis.com/)
 
 ## Installation  & Setting up dev environment🍺
 
