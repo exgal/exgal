@@ -1,13 +1,13 @@
-  preset: laravel
-  disabled:
-    - no_unused_imports
-  finder:
-    exclude: 
-      - "modules"
-      - "node_modules"
-      - "storage"
-      - "vendor"
-    name: ".php"
-    not-name: 
+preset: laravel
+disabled:
+  - no_unused_imports
+finder:
+  exclude: 
+    - "modules"
+    - "node_modules"
+    - "storage"
+    - "vendor"
+  name: ".php"
+  not-name: 
       - index.php
       - server.php
