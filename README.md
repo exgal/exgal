@@ -3,6 +3,7 @@
 
 <p align="center">
     <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/exgal/exgal/PHP%20CI%20&%20Test?label=Github%20Actions%20CI&logo=github&style=flat-square">
+    <a href="https://github.styleci.io/repos/380012662?branch=master"><img src="https://github.styleci.io/repos/380012662/shield?branch=master" alt="StyleCI"></a>
     <img alt="GitHub" src="https://img.shields.io/github/license/exgal/exgal?style=flat-square">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/exgal/exgal?logo=github&style=flat-square">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/exgal/exgal?style=flat-square">
