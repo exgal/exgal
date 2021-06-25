@@ -32,6 +32,7 @@ This repo is the backend api of the website
 [![](https://img.shields.io/badge/-Apache-f00?style=flat-square&logo=apache&logoColor=ffffff)](https://www.apache.org/) 
 [![](https://img.shields.io/badge/-PostgreSQL-346891?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/-Redis-a51f17?style=flat-square&logo=redis&logoColor=ffffff)](https://www.redis.com/)
+[![](https://img.shields.io/badge/-MeiliSearch-0063f7?style=flat-square&logo=meilisearch&logoColor=ffffff)](https://www.meilisearch.com/)
 
 ## Installation  & Setting up dev environment🍺
 
@@ -93,6 +94,12 @@ Generate the key
 
 ```shell
 php artisan key:generate
+```
+
+### Generate lighthouse IDE-helper💡
+Generate the lighthouse graphql ide-helper
+```shell
+php artisan lighthouse:ide-helper
 ```
 
 ### Config the env file
