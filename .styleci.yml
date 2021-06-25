@@ -14,8 +14,3 @@ php:
       - "*_ide_helper.php"
       - index.php
       - server.php
-js:
-  finder:
-    not-name:
-      - webpack.mix.js
-css: true
