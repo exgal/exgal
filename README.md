@@ -167,3 +167,8 @@ Coming Soon
 ## License📘
 
 The ExGal project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Contact
+contact us
+
+[![](https://img.shields.io/badge/Bilibili-Mitth'raw'nuruodo-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/442263994)
+[![](https://img.shields.io/badge/Weibo-Mitth'raw'nuruodo-E6162D?style=flat-square&logo=sinaweibo&logoColor=ffffff)](https://weibo.com/u/7632860561)
